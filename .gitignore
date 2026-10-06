@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+*.dxf
+*.step
+*.stp
+*.stl
+*.obj
+*.ply
+!assets/**/*.stl
+step_export_test/

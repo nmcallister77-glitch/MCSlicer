@@ -1,0 +1,11 @@
+numpy
+scipy
+shapely
+trimesh
+pyvista
+pyvistaqt
+PyQt5
+ezdxf
+Pillow
+# Optional STEP export support:
+# cadquery
